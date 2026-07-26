@@ -1,2 +1,1 @@
-# sb-monitoring
-sb-monitoring prometheus
+# Refer inside Readme file.
